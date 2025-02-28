@@ -1,10 +1,16 @@
-# data_science
-The main objective of this project is to build a model that predicts customers that would subscribe
-to a bank term deposit, and it was achieved by considering 2 different models and using the best one
-for the prediction. Preliminary Data Analysis is performed to clean the data set. Bi-variate analysis
-and multivariate analysis is used to gather insights from the data set with help of various graphs and
-plots.Logistic Regression model is used to predict the test data set. But as the data may have nonlinearity.
-Decision tree classifier model is used on the data set.I went through rigorous steps of
-preparing the data for the model and choosing various evaluation metrics to measure the
-performance of the models.The resultant accuracy of the predictive model was more than 90
-percent.
+Predicting Bank Term Deposit Subscription: A Data Science Approach
+
+This project aims to develop a predictive model that identifies customers likely to subscribe to a bank term deposit. The analysis was conducted using Python in a Jupyter Notebook environment.
+
+To achieve this objective, two different machine learning models were evaluated, selecting the best-performing one for final predictions. A thorough Preliminary Data Analysis (PDA) was performed to clean the dataset, ensuring data quality. Bi-variate and multivariate analyses were conducted to extract meaningful insights using various visualizations, such as graphs and plots.
+
+For modeling, a Logistic Regression model was initially applied to predict the test dataset. However, considering potential nonlinear relationships within the data, a Decision Tree Classifier was also implemented. Rigorous steps were taken in data preparation, feature selection, and model tuning. Various evaluation metrics were used to assess model performance, ensuring reliability and robustness.
+
+As a result, the final predictive model achieved an accuracy exceeding 90%, demonstrating its effectiveness in identifying potential customers for subscription.
+
+
+
+
+
+
+
